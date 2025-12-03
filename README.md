@@ -6,6 +6,3 @@
 - 👀 I’m interested in Programming
 - 🌱 My personal website: https://imwcr.cn/
 - 📫 How to reach me yuantuo666@gmail.com
-
-![Chaoren's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuantuo666&layout=compact&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuantuo666&layout=compact&theme=transparent)
